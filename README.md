@@ -96,7 +96,7 @@ The API and Routes are as follows: <br>
 [GET] /login <br>
 #### Parameters: none <br>
 #### Response: <br>
-<p align="center"><img src="storage/app/public/misc/login.png" width="400"></p>
+<p align="center"><img src="https://kervinmisc.s3.ap-southeast-1.amazonaws.com/login.png" width="400"></p>
 
 ### Logout
 [GET] /logout <br>
@@ -111,7 +111,7 @@ The API and Routes are as follows: <br>
 [GET] / or /dashboard<br>
 #### Parameters: none <br>
 #### Response: <br>
-<p align="center"><img src="storage/app/public/misc/dashboard.png" width="400"></p>
+<p align="center"><img src="https://kervinmisc.s3.ap-southeast-1.amazonaws.com/dashboard.png" width="400"></p>
 
 <br>
 
@@ -120,13 +120,13 @@ The API and Routes are as follows: <br>
 [GET] /organization <br>
 #### Parameters: none <br>
 #### Response: <br>
-<p align="center"><img src="storage/app/public/misc/organization.png" width="400"></p>
+<p align="center"><img src="https://kervinmisc.s3.ap-southeast-1.amazonaws.com/organization.png" width="400"></p>
 
 ### Create View
 [GET] /organization/create <br>
 #### Parameters: none <br>
 #### Response: <br>
-<p align="center"><img src="storage/app/public/misc/organization_create.png" width="400"></p>
+<p align="center"><img src="https://kervinmisc.s3.ap-southeast-1.amazonaws.com/organization_create.png" width="400"></p>
 
 ### Create
 [POST] /organization/create <br>
@@ -186,13 +186,13 @@ id int
 [GET] /people <br>
 #### Parameters: none <br>
 #### Response: <br>
-<p align="center"><img src="storage/app/public/misc/people.png" width="400"></p>
+<p align="center"><img src="https://kervinmisc.s3.ap-southeast-1.amazonaws.com/people.png" width="400"></p>
 
 ### Create View
 [GET] /people/create <br>
 #### Parameters: none <br>
 #### Response: <br>
-<p align="center"><img src="storage/app/public/misc/people_create.png" width="400"></p>
+<p align="center"><img src="https://kervinmisc.s3.ap-southeast-1.amazonaws.com/people_create.png" width="400"></p>
 
 ### Create
 [POST] /people/create <br>
