@@ -14,7 +14,7 @@ The web app consist of 4 models: Organization, People (Person/PIC), Authorizatio
 - Setup database name, username, and password
 - Run <b>php artisan migrate</b>
 - Run <b>php artisan db:seed</b>
-- Open https://127.0.0.1:8000 (the port differs from machine to another)
+- Open https://127.0.0.1:8000 (the port differs from one machine to another)
 
 
 Use this credentials to login: <br><br>
@@ -35,8 +35,10 @@ http://127.0.0.1:8000/login <br>
 http://127.0.0.1:8000/dashboard <br>
 http://127.0.0.1:8000/organization <br>
 http://127.0.0.1:8000/organization/create <br>
+http://127.0.0.1:8000/organization/edit/{id} <br>
 http://127.0.0.1:8000/people <br>
 http://127.0.0.1:8000/people/create <br>
+http://127.0.0.1:8000/people/edit/{id} <br>
 http://127.0.0.1:8000/logout <br>
 
 ## Models
